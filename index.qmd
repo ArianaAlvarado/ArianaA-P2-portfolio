@@ -2,10 +2,18 @@
 title: "My website and data analysis portfolio"
 ---
 
-# Hello
+# Hello! 
 
-Welcome to **my website** and _data analysis portfolio._ 
+Welcome to my website and data analysis portfolio. 
 
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
 
-* Please use the `Menu Bar` above to look around.
-* Have fun! 😁
+- Please use the `Menu Bar` above to look around.
+- Don't have too much fun! But I'm not your parent, so you can do whatever you want.
+
+</div>
+
+![.](https://media.tenor.com/olUD3dtBWDQAAAAj/do-what-you-want-tim-robinson.gif)
