@@ -39,7 +39,21 @@ _Write a summary of your project._
 _Provide enough background on your topic that others can understand the why and how of your analysis_ 
 
 ## Description of data and data source
-_Describe what the data is, what it contains, where it is from, etc. Eventually this might be part of a methods section._
+
+The data contains various demographic characteristics:
+
+- Height
+- Weight
+- Gender
+
+This data was amended to also include:
+
+  - Age 
+    + Description: numeric value > 0 and < 100
+    
+  - Race
+    + Categories: Black/White/Hispanic/Native American/Asian/Pacific Islander/Other
+
 
 ## Questions/Hypotheses to be addressed
 _State the research questions you plan to answer with this analysis._
