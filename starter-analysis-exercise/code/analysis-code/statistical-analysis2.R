@@ -60,7 +60,7 @@ data_loc = here::here("starter-analysis-exercise","data","processed-data","proce
 data_lm3 = readRDS(data_loc)
 
 lmfit3 = lm(Height ~ Age + Race, data_lm3)  
-lmtable2 = broom::tidy(lmfit3)
+lmtable3 = broom::tidy(lmfit3)
 print(lmtable3)
 
 table_file3 = here("starter-analysis-exercise","results", "tables-files", "resulttable3.rds")
